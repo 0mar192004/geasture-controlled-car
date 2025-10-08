@@ -131,8 +131,7 @@ Open source - feel free to modify and improve!
 
 ## Contributors
 
-Your name here
-
+Moaz Elkholy
 ---
 
 **Note:** Ensure proper power supply for motors. The motor driver should be powered separately from the Arduino to avoid voltage drops.
