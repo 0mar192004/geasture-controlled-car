@@ -17,7 +17,7 @@ This project consists of two Arduino systems:
 - Power supply
 
 ### Robot Car
-- Arduino board
+- Arduino uno board
 - HC-05 Bluetooth module (Slave)
 - L298N motor driver or similar
 - 2x DC motors
