@@ -11,7 +11,7 @@ This project consists of two Arduino systems:
 ## Hardware Requirements
 
 ### Gesture Controller
-- Arduino board
+- Arduino nano board
 - MPU6050 accelerometer/gyroscope module
 - HC-05 Bluetooth module (Master)
 - Power supply
